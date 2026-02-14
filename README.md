@@ -3,7 +3,7 @@
 
 ## 📺 Project Links
 - **Demo Video:** [https://drive.google.com/file/d/1_E5rvmjxc0NVJsJBv8wafbSfaO46OsBX/view?usp=drive_link]
-- **Live Hosted App:** [PASTE YOUR STREAMLIT URL HERE]
+- **Live Hosted App:** [(https://ai-coding-evaluator-hackathon-6uoyfmpigrp4txzydvyltw.streamlit.app)]
 
 ## 🌟 Overview
 Elite AI Evaluator is a professional-grade automated code assessment tool. It goes beyond simple test cases to identify **Engineering Signals** like logic depth, algorithmic complexity, and code maintainability, providing recruiters with instant, fair, and deep insights.
@@ -25,5 +25,6 @@ Elite AI Evaluator is a professional-grade automated code assessment tool. It go
 2. Install requirements: `pip install streamlit groq pandas`
 3. Add your Groq API Key in `app.py`.
 4. Run: `streamlit run app.py`
+
 
 Developed by Divya Agarwal.
